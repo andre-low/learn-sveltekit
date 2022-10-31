@@ -1,10 +1,11 @@
 # Learning SvelteKit
 
-Following along with Joy of Code's Full Stack SvelteKit for Beginners
+Creating a Twitter clone by following along with Joy of Code's Full Stack SvelteKit for Beginners
 - [Blog post](https://joyofcode.xyz/sveltekit-for-beginners)
 - [YouTube playlist](https://www.youtube.com/playlist?list=PLA9WiRZ-IS_zXZZyW4qfj0akvOAtk6MFS)
+- [GitHub repo (update migrated branch)](https://github.com/JoysOfCode/sveltekit-for-beginners/tree/migration)
 
-The tutorial was designed for pre-release candidate SvelteKit (which came with several breaking changes), so I will constantly reference [SvelteKit documentation](https://kit.svelte.dev/docs/introduction) where appropriate.
+The tutorial was originally written for the pre-release-candidate version of SvelteKit. There have since been several [breaking changes](https://github.com/sveltejs/kit/discussions/5748) for the [release candidate](https://svelte.dev/blog/whats-new-in-svelte-october-2022), so I will also be referencing the latest [SvelteKit documentation](https://kit.svelte.dev/docs/introduction) where appropriate.
 
 # create-svelte
 
