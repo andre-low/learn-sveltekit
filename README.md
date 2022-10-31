@@ -5,7 +5,9 @@ Creating a Twitter clone by following along with Joy of Code's Full Stack Svelte
 - [YouTube playlist](https://www.youtube.com/playlist?list=PLA9WiRZ-IS_zXZZyW4qfj0akvOAtk6MFS)
 - [GitHub repo (update migrated branch)](https://github.com/JoysOfCode/sveltekit-for-beginners/tree/migration)
 
-The tutorial was originally written for the pre-release-candidate version of SvelteKit. There have since been several [breaking changes](https://github.com/sveltejs/kit/discussions/5748) for the [release candidate](https://svelte.dev/blog/whats-new-in-svelte-october-2022), so I will also be referencing the latest [SvelteKit documentation](https://kit.svelte.dev/docs/introduction) where appropriate.
+The tutorial was originally written for the pre-release-candidate version of SvelteKit. There have since been several [breaking changes](https://github.com/sveltejs/kit/discussions/5748) for the [release candidate](https://svelte.dev/blog/whats-new-in-svelte-october-2022), so I will also be referencing the latest [SvelteKit documentation](https://kit.svelte.dev/docs/introduction) where appropriate. The GitHub repo for the tutorial project also has an [updated branch with the relevant changes](https://github.com/JoysOfCode/sveltekit-for-beginners/tree/migration), but the written tutorial has not been updated.
+
+I will also be using [TailwindCSS](https://tailwindcss.com/docs/guides/sveltekit) for styling and trying to learn that simultaneously.
 
 # create-svelte
 
